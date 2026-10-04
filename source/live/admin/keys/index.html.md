@@ -3,7 +3,9 @@ name: keys
 title: Keys
 ---
 
-[docs\_box\_row] [docs\_box url="help/admin" text="Back to **Admin Help**" /] [docs\_box url="/help/admin/themes" text="Previous: **Themes**" /] [docs\_box url="/help/admin/localisation" text="Next: **Localisation**" /] [/docs\_box\_row]
+- [Back to **Admin Help**](../../admin/)
+- [Previous: **Themes**](../../admin/themes/)
+- [Next: **Localisation**](../../admin/localisation/)
 
 #### What are Keys?
 
@@ -17,7 +19,9 @@ Select `New Key` and type in the name and purpose of the key. The name will be u
 
 #### Installing a Key
 
-[alert\_box type="info" class="corners"] You must install the Key on the computer on which you wish to use it.[/alert\_box] To install a key, select `Install` next to the relevant key. You will be prompted for a name - this should identify the computer that you're are currently using. A single key can be used on multiple computers if you wish. You'll need to log out and then log back in with the 'Use Key' checkbox ticked on the log in page before the key is activated.
+[alert\_box type="info" class="corners"] You must install the Key on the computer on which you wish to use it.[/alert\_box]
+
+To install a key, select `Install` next to the relevant key. You will be prompted for a name - this should identify the computer that you're are currently using. A single key can be used on multiple computers if you wish. You'll need to log out and then log back in with the 'Use Key' checkbox ticked on the log in page before the key is activated.
 
 #### Changing the Privileges Associated with a Key
 
@@ -27,6 +31,12 @@ To change a Key's permissions you can remove or add a Role associated with it: s
 
 #### No-timeout Keys
 
-No-timeout Keys can be used to disable the automatic time-out feature in _Three Rings_ when using a specific computer.[alert\_box type="danger" class="corners"] WARNING! Please read this information carefully and make sure you understand the potential risks of no-timeout keys before proceeding! [/alert\_box] The timeout is there for a reason: to protect your data on computers which have been accidentally left unattended. If you make use of this feature, you should take appropriate measures to protect the computers on which the Key is installed. If you're in any doubt about the risks of using a no-timeout key, please contact the _Three Rings_ team, and we'll be happy to help.
+No-timeout Keys can be used to disable the automatic time-out feature in _Three Rings_ when using a specific computer.
 
-[docs\_box\_row] [docs\_box url="help/admin" text="Back to **Admin Help**" /] [docs\_box url="/help/admin/themes" text="Previous: **Themes**" /] [docs\_box url="/help/admin/localisation" text="Next: **Localisation**" /] [/docs\_box\_row]
+[alert\_box type="danger" class="corners"] WARNING! Please read this information carefully and make sure you understand the potential risks of no-timeout keys before proceeding! [/alert\_box]
+
+The timeout is there for a reason: to protect your data on computers which have been accidentally left unattended. If you make use of this feature, you should take appropriate measures to protect the computers on which the Key is installed. If you're in any doubt about the risks of using a no-timeout key, please contact the _Three Rings_ team, and we'll be happy to help.
+
+- [Back to **Admin Help**](../../admin/)
+- [Previous: **Themes**](../../admin/themes/)
+- [Next: **Localisation**](../../admin/localisation/)

@@ -3,7 +3,9 @@ name: localisation
 title: Localisation
 ---
 
-[docs\_box\_row] [docs\_box url="help/admin" text="Back to **Admin Help**" /] [docs\_box url="/help/admin/keys" text="Previous: **Keys**" /] [docs\_box url="/help/admin/maintenance" text="Next: **Maintenance**" /] [/docs\_box\_row]
+- [Back to **Admin Help**](../../admin/)
+- [Previous: **Keys**](../../admin/keys/)
+- [Next: **Maintenance**](../../admin/maintenance/)
 
 Localisation settings control details of how Three Rings presents information to you and your users.
 
@@ -19,7 +21,11 @@ Once finished, click the `Save Changes` button.
 
 #### Dates and Times
 
-Here is where you set your organisation's time zone. [alert\_box type="info" class="corners"] When the clocks go forward and/or back, there is no need to do anything; _Three Rings_ will automatically update. [/alert\_box] To choose which day is shown as the first day of the week on the Rota, edit the value in the First day of the week dropdown.
+Here is where you set your organisation's time zone.
+
+[alert\_box type="info" class="corners"] When the clocks go forward and/or back, there is no need to do anything; _Three Rings_ will automatically update. [/alert\_box]
+
+To choose which day is shown as the first day of the week on the Rota, edit the value in the First day of the week dropdown.
 
 To set when one day ends and the next begins, choose an option between Midnight and 11am from the drop down box. To apply these alterations, click the `Save Changes` button at the bottom of the page. This is useful to make _Three Rings_' behaviour match the way your organisation talks about shifts, for example if your organisation calls a shift running from 01:00 to 04:00 on a Thursday morning as the 'Wednesday Overnight shift'.
 
@@ -37,6 +43,10 @@ These settings control which public holidays and other events are displayed on t
 
 #### Directory Views
 
-Locate the section entitled Directory Views then the drop down box next to `Directory Mode. `Choose to display the Directory as either `Buttons`, or a 'List', then click `Save Changes`. You can also select what information will be displayed underneath volunteers' names on their Directory button. [alert\_box type="info" class="corners"] If most of your volunteers don't use photos on their Directory pages, the list option will probably look better![/alert\_box]
+Locate the section entitled Directory Views then the drop down box next to `Directory Mode. `Choose to display the Directory as either `Buttons`, or a 'List', then click `Save Changes`. You can also select what information will be displayed underneath volunteers' names on their Directory button.
 
-[docs\_box\_row] [docs\_box url="help/admin" text="Back to **Admin Help**" /] [docs\_box url="/help/admin/keys" text="Previous: **Keys**" /] [docs\_box url="/help/admin/maintenance" text="Next: **Maintenance**" /] [/docs\_box\_row]
+[alert\_box type="info" class="corners"] If most of your volunteers don't use photos on their Directory pages, the list option will probably look better![/alert\_box]
+
+- [Back to **Admin Help**](../../admin/)
+- [Previous: **Keys**](../../admin/keys/)
+- [Next: **Maintenance**](../../admin/maintenance/)

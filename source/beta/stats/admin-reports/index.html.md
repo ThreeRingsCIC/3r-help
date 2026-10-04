@@ -27,4 +27,4 @@ Personal Information
 
 Provides a list of data held by _Three Rings_ relating to a single volunteer - it can get quite long. Might be useful if you have to respond to a Subject Access Request (SAR) request.
 
-[docs\_box url="/docs/stats" text="Back to **Stats Help**"]
+- [Back to **Stats Help**](../../stats/)

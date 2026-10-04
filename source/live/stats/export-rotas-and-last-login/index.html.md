@@ -15,4 +15,4 @@ This report lists which volunteers at your organisation have which Roles. You ca
 
 The Volunteer Snapshot report shows how many volunteer accounts were awake at a particular date in the past. Of course, some of those people will have left since some date in the past - if personal information has been deleted they will be identified only by number.
 
-[docs\_box url="/docs/stats" text="Back to **Stats Help**"]
+- [Back to **Stats Help**](../../stats/)

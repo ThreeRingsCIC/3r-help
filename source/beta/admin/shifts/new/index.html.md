@@ -3,7 +3,7 @@ name: Add a Shift
 title: Creating a new Shift
 ---
 
-![](https://www.3r.org.uk/inline_images/98bc9eb0-c100-4e8a-953b-605adca0723a)
+![](../../../../images/98bc9eb0-c100-4e8a-953b-605adca0723a.png)
 
 Adding a new shift, select the start and end times in the usual way. If you select All Day Shift, you need only select the start date (leave the time as specified) and the shift will run for 24 hours.
 

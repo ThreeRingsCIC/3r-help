@@ -28,4 +28,4 @@ it means that either the username, or the password, which you entered was incorr
 
 When you’re done using _Three Rings_, click the link on the upper-right corner of the page, to protect your account.
 
-[docs\_box url="/help/admin/getting-started-and-getting-help" text="Back to **Getting Started**" /]
+- [Back to **Getting Started**](../admin/getting-started-and-getting-help/)

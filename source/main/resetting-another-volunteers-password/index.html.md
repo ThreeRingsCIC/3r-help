@@ -5,7 +5,9 @@ title: Resetting another volunteer's password
 
 _This page is about how to reset the password on behalf of a volunteer who has forgotten theirs. If you've forgotten your own password, see [Forgotten Password](/help/forgotten-password)._
 
-[alert\_box type="warning" class="corners"]If somebody claiming to be a volunteer asks for a password reset, especially if they also ask to change their e-mail address first, or if they don't know their username, they could be a hacker trying to gain access to the system. Unless you know the volunteer personally, you should take steps to validate their identity: for example, offer to call them back on the phone number listed on their Directory page, or ask them to confirm some of the properties visible to you on their Directory page, such as date of birth, in order to prove that they are who they claim to be.[/alert\_box] Once you've confirmed the identity of a volunteer who's having difficulty remembering their username or password, you can help them in the following ways:
+[alert\_box type="warning" class="corners"]If somebody claiming to be a volunteer asks for a password reset, especially if they also ask to change their e-mail address first, or if they don't know their username, they could be a hacker trying to gain access to the system. Unless you know the volunteer personally, you should take steps to validate their identity: for example, offer to call them back on the phone number listed on their Directory page, or ask them to confirm some of the properties visible to you on their Directory page, such as date of birth, in order to prove that they are who they claim to be.[/alert\_box]
+
+Once you've confirmed the identity of a volunteer who's having difficulty remembering their username or password, you can help them in the following ways:
 
 - To find out the username of a volunteer, log into _Three Rings_ and look them up in the Directory. The username will either be displayed on the page (alongside the word "Username:"), or you can find it at the end of the web address shown in the address bar, after the final slash (/).
 - If you have Directory Manage permission, you can send a new password to a volunteer who has forgotten theirs.
@@ -36,4 +38,4 @@ In rare situations, Three Rings password reset e-mails have become trapped by sp
 
 If your volunteer doesn't have an e-mail address, then when you click the Reset Password button you'll be taken to a different page. This page contains instructions on how they can reset their password. The instructions involve going to the Three Rings login page, clicking a special link, and carefully entering a long number. You could read out these instructions to the volunteer by phone or print them out and deliver them. Note that this page does not contain the volunteer's username: if the volunteer has also forgotten their username then you will have to supply them with this separately.
 
-[docs\_box url="/help/admin/getting-started-and-getting-help" text="Back to **Getting Started**" /]
+- [Back to **Getting Started**](../admin/getting-started-and-getting-help/)

@@ -19,4 +19,4 @@ The Shift History report allows you to show all the changes that happened to shi
 
 The Shift Changes report shows you every sign-up and pull-out a volunteer made to shifts on a given Rota or set of Rotas between two dates. You filter the report to show specific sets of volunteers by Role, and can select which Rotas to run the report against using the drop-down, and set the Dates the report should study with the calendar buttons at the top of the page. You can also include a range of Directory Properties to be included in the report, and can export the finished report as a .pdf or .csv format.
 
-[docs\_box url="/docs/stats" text="Back to **Stats Help**"]
+- [Back to **Stats Help**](../../stats/)

@@ -3,7 +3,10 @@ name: latest-release
 title: Latest Release Notes
 ---
 
-_Milestone: Zirconium_ was released on March 11th 2017. As our Winter Release for 2016/17 it focused primarily on paying back "code debt" to tidy up the underlying structure of _Three Rings_. It also marks the last of the 'Elemental Class' release pattern we've been using since the launch of Milestone: Aluminium back in June 2008! [alert\_box type="info" class="corners"]Release notes for previous Milestones [are available here](https://www.threerings.org.uk/help/help/latest-release/past-milestones-release-notes/)[/alert\_box]
+_Milestone: Zirconium_ was released on March 11th 2017. As our Winter Release for 2016/17 it focused primarily on paying back "code debt" to tidy up the underlying structure of _Three Rings_. It also marks the last of the 'Elemental Class' release pattern we've been using since the launch of Milestone: Aluminium back in June 2008!
+
+[alert\_box type="info" class="corners"]Release notes for previous Milestones [are available here](https://www.threerings.org.uk/help/help/latest-release/past-milestones-release-notes/)[/alert\_box]
+
 #### Performance improvements
 As part of an ongoing effort to improve peak-time performance issues, we've been refactoring old and slow code, with a particular focus on the Directory. 
 #### List Upcoming shifts for other volunteers

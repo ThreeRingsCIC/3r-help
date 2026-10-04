@@ -3,7 +3,11 @@ name: rules-and-shifts
 title: Rules and Shifts
 ---
 
-[docs\_box\_row] [docs\_box url="help/admin" text="Back to **Admin Help**" /] [docs\_box url="/help/admin/rotas" text="Previous: **Rotas**" /] [docs\_box url="/help/admin/closures" text="Next: **Closures**" /] [/docs\_box\_row] **Rota Rules** set restrictions on which volunteers can sign up to shifts on a Rota. **Shifts** is used to create and edit Shifts.
+- [Back to **Admin Help**](../../admin/)
+- [Previous: **Rotas**](../../admin/rotas/)
+- [Next: **Closures**](../../admin/closures/)
+
+**Rota Rules** set restrictions on which volunteers can sign up to shifts on a Rota. **Shifts** is used to create and edit Shifts.
 
 In general, try to set as few Rota Rules as possible. Shifts have a defined size (min and max). it is not usually necessary to limit the number of volunteers who can sign up for a shift.
 
@@ -63,11 +67,15 @@ Defines the minimum time that volunteers must leave between shifts - possibly on
 
 The Shifts tool used to control the shifts that volunteers in your organisation can staff. It is usually better to access these functions via the '+' sign under the date on the rota.
 
-![](https://www.3r.org.uk/inline_images/39bf3dc4-bae5-4c9b-9346-6503d7d35c30)
+![](../../../images/39bf3dc4-bae5-4c9b-9346-6503d7d35c30.png)
 
 #### Adding a shift
 
-On the rota, find the date on which the change is to occur, or begin, on the Rota. From there, select any shift and use the `“As an Administrator"` tab in the popup to Add the shift. On the `Add a Shift` page, use the dropdown to pick the `Rota` you want to add the shift to, as well as defining the shift `Start date/time` and its `Duration`. For an all-day shift, use the `All day?` checkbox instead of defining a Duration. Fill the Start and End times, if appropriate [alert\_box type=”info” class=”corners] An all day shift will automatically have a duration of 24 hours, and will not have a start time. All day shifts appear at the top of the rota[/alert\_box] You can define the minimum and maximum number of volunteers that will be allowed on the shift. If Shift Titles are enabled, you will also be asked to enter a title for the shift. You can use this to give your volunteers more details about this shift. If Shift Reminders are enabled you can say whether you want reminders to be sent for this shift and how far in advance they should be sent. Select how often you want the shift to reoccur:
+On the rota, find the date on which the change is to occur, or begin, on the Rota. From there, select any shift and use the `“As an Administrator"` tab in the popup to Add the shift. On the `Add a Shift` page, use the dropdown to pick the `Rota` you want to add the shift to, as well as defining the shift `Start date/time` and its `Duration`. For an all-day shift, use the `All day?` checkbox instead of defining a Duration. Fill the Start and End times, if appropriate
+
+[alert\_box type=”info” class=”corners] An all day shift will automatically have a duration of 24 hours, and will not have a start time. All day shifts appear at the top of the rota[/alert\_box]
+
+You can define the minimum and maximum number of volunteers that will be allowed on the shift. If Shift Titles are enabled, you will also be asked to enter a title for the shift. You can use this to give your volunteers more details about this shift. If Shift Reminders are enabled you can say whether you want reminders to be sent for this shift and how far in advance they should be sent. Select how often you want the shift to reoccur:
 
 | **Reccurance** | **Explanation** |
 | **One-off** | This shift will only happen once. |
@@ -85,9 +93,11 @@ It is possible to create Shifts that last longer than one day. These can last up
 
 #### Copy or Move Shifts
 
-Allows shifts or blocks of shifts to be copied or moved.  
- [alert\_box type="alert"] **Take Care:** It is possible to make a big mess if you get this command wrong. There is no Undo available![/alert\_box]  
- Select the rota and times for the shifts you want to Move or Copy.
+Allows shifts or blocks of shifts to be copied or moved.
+
+[alert\_box type="alert"] **Take Care:** It is possible to make a big mess if you get this command wrong. There is no Undo available![/alert\_box]
+
+Select the rota and times for the shifts you want to Move or Copy.
 
 Select the rota and start time for where they should be copied to.
 

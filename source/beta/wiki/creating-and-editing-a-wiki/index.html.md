@@ -5,7 +5,11 @@ title: Creating and Editing a Wiki
 
 #### Creating a Wiki
 
-Click on the wiki tab 'Wiki' at the top of the page and then click the 'Create Wiki' button at the bottom of the page. Enter the name of the new wiki in the edit box. [alert\_box type="warning" class="corners"]Once chosen, wiki names **can't be changed**.[/alert\_box] Press the `Create Wiki` button.
+Click on the wiki tab 'Wiki' at the top of the page and then click the 'Create Wiki' button at the bottom of the page. Enter the name of the new wiki in the edit box.
+
+[alert\_box type="warning" class="corners"]Once chosen, wiki names **can't be changed**.[/alert\_box]
+
+Press the `Create Wiki` button.
 
 #### Creating a Wiki Page
 
@@ -19,4 +23,4 @@ There are several tools that allow you to apply different effects to the text on
 
 Type the text you wish to make a heading then highlight it and click the drop-down box labelled displaying `Paragraph`. A menu will appear with a variety of different headings in it, numbered 1-6. 1 is the biggest and 6 the smallest. Click the `Save Changes` button when you are finished altering the page and the change will be applied.
 
-[docs\_box url="/docs/wiki" text="Back to **Wiki Help**"]
+- [Back to **Wiki Help**](../../wiki/)

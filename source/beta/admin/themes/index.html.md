@@ -3,7 +3,9 @@ name: themes
 title: Themes
 ---
 
-[docs\_box\_row] [docs\_box url="help/admin" text="Back to **Admin Help**" /] [docs\_box url="/help/admin/secrets" text="Previous: **Secrets**" /] [docs\_box url="/help/admin/keys" text="Next: **Keys**" /] [/docs\_box\_row]
+- [Back to **Admin Help**](../../admin/)
+- [Previous: **Secrets**](../../admin/secrets/)
+- [Next: **Keys**](../../admin/keys/)
 
 ## Themes
 
@@ -28,4 +30,6 @@ Alternatively, you can select Create your own Theme from the drop-down menu. Thi
 
 You can customise the colours of shifts that are highlighted on the Rota. These are a volunteer's own shifts, understaffed shifts, closed shifts, and the colour used to display 'today'. These colours remain the same across all Rotas at your organisation.
 
-[docs\_box\_row] [docs\_box url="help/admin" text="Back to **Admin Help**" /] [docs\_box url="/help/admin/secrets" text="Previous: **Secrets**" /] [docs\_box url="/help/admin/keys" text="Next: **Keys**" /] [/docs\_box\_row]
+- [Back to **Admin Help**](../../admin/)
+- [Previous: **Secrets**](../../admin/secrets/)
+- [Next: **Keys**](../../admin/keys/)

@@ -15,4 +15,4 @@ The Inactivity tool displays when your volunteers have scheduled periods of inac
 
 The Volunteer Inactivity tool will display information on which volunteers are inactive during a specified period, for how long, and between which dates. To access this information, click on the `Stats` tab and the `Volunteer Inactivity` link. You can change the dates covered by using the calendar buttons and clicking the `Refresh` button.
 
-[docs\_box url="/docs/stats" text="Back to **Stats Help**"]
+- [Back to **Stats Help**](../../stats/)

@@ -3,7 +3,9 @@ name: attachments
 title: Attachments
 ---
 
-[docs\_box\_row] [docs\_box url="help/admin" text="Back to **Admin Help**" /] [docs\_box url="/help/admin/email" text="Previous: **Email**" /] [docs\_box url="/help/admin/text-messages" text="Next: **Text Messages**" /] [/docs\_box\_row]
+- [Back to **Admin Help**](../../admin/)
+- [Previous: **Email**](../../admin/email/)
+- [Next: **Text Messages**](../../admin/text-messages/)
 
 Attachments that have been uploaded and sent through Comms are listed in the Attachments section.
 
@@ -24,4 +26,6 @@ Each attachment that has been sent is shown on its own row, with various associa
 
 [alert\_box type="warning" class="corners"]The Downloads column only lists downloads that were made by clicking or using the link in the attachment email. Administrators who download the file through this Attachments panel are not shown in this list, however these are shown in the [Logs](http://help/admin/log).[/alert\_box]
 
-[docs\_box\_row] [docs\_box url="help/admin" text="Back to **Admin Help**" /] [docs\_box url="/help/admin/email" text="Previous: **Email**" /] [docs\_box url="/help/admin/text-messages" text="Next: **Text Messages**" /] [/docs\_box\_row]
+- [Back to **Admin Help**](../../admin/)
+- [Previous: **Email**](../../admin/email/)
+- [Next: **Text Messages**](../../admin/text-messages/)

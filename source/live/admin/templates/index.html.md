@@ -3,7 +3,9 @@ name: templates
 title: Email Templates
 ---
 
-[docs\_box\_row] [docs\_box url="help/admin" text="Back to **Admin Help**" /] [docs\_box url="/help/admin/support-people" text="Previous: **Support People**" /] [docs\_box url="/help/admin/security" text="Next: **Security**" /] [/docs\_box\_row]
+- [Back to **Admin Help**](../../admin/)
+- [Previous: **Support People**](../../admin/support-people/)
+- [Next: **Security**](../../admin/security/)
 
 [alert\_box type="info" class="corners"]Email templates are used for system emails sent out by _Three Rings_ - these templates aren't sent out via Comms.[/alert\_box]
 
@@ -13,4 +15,6 @@ You can customise the content of these emails by clicking the name of the templa
 
 Once you've made your changes, click the Save & Preview button. You can make edits and save them as many times as you like. You can also reset the text to the default _Three Rings_ template by clicking the Reset to Default button. You can also cancel any edits you've made since the last time you saved the template by clicking the Cancel button.
 
-[docs\_box\_row] [docs\_box url="help/admin" text="Back to **Admin Help**" /] [docs\_box url="/help/admin/support-people" text="Previous: **Support People**" /] [docs\_box url="/help/admin/security" text="Next: **Security**" /] [/docs\_box\_row]
+- [Back to **Admin Help**](../../admin/)
+- [Previous: **Support People**](../../admin/support-people/)
+- [Next: **Security**](../../admin/security/)

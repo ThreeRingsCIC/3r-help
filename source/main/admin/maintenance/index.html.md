@@ -3,7 +3,9 @@ name: maintenance
 title: Maintenance
 ---
 
-[docs\_box\_row] [docs\_box url="help/admin" text="Back to **Admin Help**" /] [docs\_box url="/help/admin/localisation" text="Previous: **Localisation**" /] [docs\_box url="/help/admin/invoices" text="Next: **Invoicing**" /] [/docs\_box\_row]
+- [Back to **Admin Help**](../../admin/)
+- [Previous: **Localisation**](../../admin/localisation/)
+- [Next: **Invoicing**](../../admin/invoices/)
 
 The Maintenance page was created to remind administrators of tasks that are may require attention. Maintenance Tasks will appear periodically as the situation causing them changes, but you can also manually check them by clicking the '`Check`' button in the Maintenance panel. The following situations cause Maintenance Task reminders to be displayed:
 
@@ -19,4 +21,6 @@ When you have a Maintenance Task, it may mean you should check your settings, in
 
 [alert\_box type="warning"]Dismissing a Maintenance Task dismisses it for all administrators at your organisation, not just for you![/alert\_box]
 
-[docs\_box\_row] [docs\_box url="help/admin" text="Back to **Admin Help**" /] [docs\_box url="/help/admin/localisation" text="Previous: **Localisation**" /] [docs\_box url="/help/admin/invoices" text="Next: **Invoicing**" /] [/docs\_box\_row]
+- [Back to **Admin Help**](../../admin/)
+- [Previous: **Localisation**](../../admin/localisation/)
+- [Next: **Invoicing**](../../admin/invoices/)

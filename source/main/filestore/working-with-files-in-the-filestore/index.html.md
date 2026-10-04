@@ -9,7 +9,9 @@ Click on the Filestore tab at the top of the page and navigate to the folder you
 
 While there is no overall limit to the size of files in the Filestore, there is an upper limit of about 200Mbytes for each individual file. It is possible to exceed this limit, particularly for videos. If over-sized, the file will appear to upload indefinitely (sorry about this!).
 
-When you first Upload a file to the Filestore, it will be checked for viruses. This may take a little time, but usually less than 15 minutes. If a virus is detected, an alert will be shown on screen and in the logs. A file that has been detected as containing a virus cannot be downloaded. By default, a file which hasn't yet been scanned for viruses can't be downloaded (although Admins can override this setting in Admin\>Security). [alert\_box type="warning" class="corners"]All files will be re-scanned every few days - in case they happened to include a virus so new it wasn't yet registered as dangerous with the virus scanner. However, new viruses and other malicious software are created all the time - we can't guarantee that the virus scanner will be proof against every single new version of malware.[/alert\_box]
+When you first Upload a file to the Filestore, it will be checked for viruses. This may take a little time, but usually less than 15 minutes. If a virus is detected, an alert will be shown on screen and in the logs. A file that has been detected as containing a virus cannot be downloaded. By default, a file which hasn't yet been scanned for viruses can't be downloaded (although Admins can override this setting in Admin\>Security).
+
+[alert\_box type="warning" class="corners"]All files will be re-scanned every few days - in case they happened to include a virus so new it wasn't yet registered as dangerous with the virus scanner. However, new viruses and other malicious software are created all the time - we can't guarantee that the virus scanner will be proof against every single new version of malware.[/alert\_box]
 
 #### Downloading a File
 
@@ -33,10 +35,16 @@ Optionally, enter or modify the file's description in the second edit box and th
 
 #### Deleting a file
 
-Navigate to the file you wish to delete, click the `Delete` button next to the file and then click `OK`.[alert\_box type="warning" class="corners"]When you delete a file from the Filestore, it will remain in your _Three Rings_ recycling bin for a short time before being permanently and irreversibly deleted. If you urgently need to immediately permanently delete a file from the recycling bin, please contact the _Three Rings_ support team.[/alert\_box]
+Navigate to the file you wish to delete, click the `Delete` button next to the file and then click `OK`.
+
+[alert\_box type="warning" class="corners"]When you delete a file from the Filestore, it will remain in your _Three Rings_ recycling bin for a short time before being permanently and irreversibly deleted. If you urgently need to immediately permanently delete a file from the recycling bin, please contact the _Three Rings_ support team.[/alert\_box]
 
 #### Accessing the Recycling Bin and restoring a file
 
-To access the recycling bin, click Show Tree to view the full list of folders in the Filestore. Scroll to the very bottom and click Recycling Bin.[alert\_box type="info" class="corners"]The Show Tree button and feature is only visible on wider screens, and is automatically disabled on mobile devices.[/alert\_box]To restore a file that was deleted in error, click "Restore". The file will be returned to the same folder it was deleted from.
+To access the recycling bin, click Show Tree to view the full list of folders in the Filestore. Scroll to the very bottom and click Recycling Bin.
 
-[docs\_box url="/docs/filestore" text="Back to **Filestore Help**"]
+[alert\_box type="info" class="corners"]The Show Tree button and feature is only visible on wider screens, and is automatically disabled on mobile devices.[/alert\_box]
+
+To restore a file that was deleted in error, click "Restore". The file will be returned to the same folder it was deleted from.
+
+- [Back to **Filestore Help**](../../filestore/)

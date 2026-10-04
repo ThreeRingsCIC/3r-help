@@ -3,15 +3,21 @@ name: relationships-and-inactivity
 title: Relationships and Inactivity
 ---
 
-[docs\_box\_row] [docs\_box url="help/admin" text="Back to **Admin Help**" /] [docs\_box url="/help/admin/properties" text="Previous: **Properties**" /] [docs\_box url="/help/admin/what-are-self-managed-accounts" text="Next: **Self-Managed Accounts**" /] [/docs\_box\_row]
+- [Back to **Admin Help**](../../admin/)
+- [Previous: **Properties**](../../admin/properties/)
+- [Next: **Self-Managed Accounts**](../../admin/what-are-self-managed-accounts/)
 
 ### Relationships
 
-The Relationships tool lets you create links between different volunteers - for example, Mentor and Mentee relationships. [alert\_box type="info" class="corners"]If you can't see the Relationships panel, you may need to activate the Relationships feature first in the [Features](/help/admin/features) section.[/alert\_box]
+The Relationships tool lets you create links between different volunteers - for example, Mentor and Mentee relationships.
+
+[alert\_box type="info" class="corners"]If you can't see the Relationships panel, you may need to activate the Relationships feature first in the [Features](/help/admin/features) section.[/alert\_box]
 
 #### Adding a New Relationship Type
 
-Locate the edit boxes at the bottom of the page. Name the two sides of the relationship in the First and Second party boxes and click the `Add` button. [alert\_box type="info" class="corners"] It doesn't matter which way round they're set.[/alert\_box]
+Locate the edit boxes at the bottom of the page. Name the two sides of the relationship in the First and Second party boxes and click the `Add` button.
+
+[alert\_box type="info" class="corners"] It doesn't matter which way round they're set.[/alert\_box]
 
 #### Deleting a Relationship Type
 
@@ -32,6 +38,10 @@ Inactivity allows a period to be set in which a user cannot be signed up for shi
  Locate the inactivity type you want to edit in the table and click the `Edit` button for that inactivity type. To modify the name of the inactivity type, enter a new title in the `Name` field. To change the icon, select a new one by clicking the radio button to the left of it. Check any boxes you want to and then click the `Save Changes` button. 
 #### Deleting an Inactivity Type
 
-[alert\_box type="warning" class="corners"] You cannot delete an inactivity type that's currently associated with any volunteer (including sleepers).[/alert\_box] Locate the inactivity type you want to delete in the table and click the `Delete` button for that inactivity type.
+[alert\_box type="warning" class="corners"] You cannot delete an inactivity type that's currently associated with any volunteer (including sleepers).[/alert\_box]
 
-[docs\_box\_row] [docs\_box url="help/admin" text="Back to **Admin Help**" /] [docs\_box url="/help/admin/properties" text="Previous: **Properties**" /] [docs\_box url="/help/admin/what-are-self-managed-accounts" text="Next: **Self-Managed Accounts**" /] [/docs\_box\_row]
+Locate the inactivity type you want to delete in the table and click the `Delete` button for that inactivity type.
+
+- [Back to **Admin Help**](../../admin/)
+- [Previous: **Properties**](../../admin/properties/)
+- [Next: **Self-Managed Accounts**](../../admin/what-are-self-managed-accounts/)

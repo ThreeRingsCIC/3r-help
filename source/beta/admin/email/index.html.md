@@ -3,19 +3,25 @@ name: email
 title: Email
 ---
 
-[docs\_box\_row] [docs\_box url="help/admin" text="Back to **Admin Help**" /] [docs\_box url="/help/admin/about-your-organisation" text="Previous: **Your Organisation**" /] [docs\_box url="/help/admin/attachments" text="Next: **Attachments**" /] [/docs\_box\_row]
+- [Back to **Admin Help**](../../admin/)
+- [Previous: **Your Organisation**](../../admin/about-your-organisation/)
+- [Next: **Attachments**](../../admin/attachments/)
 
 Emails can either be set to come from a specific address or the volunteer's address.
 
 #### Send From
 
-To make emails come from a volunteer's address (if they have one listed on their directory page), click the checkbox next to the line that starts with `Send email` from their own name and email address until a check mark appears in the box. To disable this, untick the box. To make emails appear to come from a branch address, click the checkbox next to the line that starts with Send email from the following name and email address: until a check mark appears in the box. To disable this, untick the box. [alert\_box type="info"]Sometimes, where _Three Rings_ is configured to send email from individual volunteers' email addresses, email clients will remember the name of a past sender, regardless of who actually sent the most recent email - this depends on how their email clients operate, which don't always respect the settings in _Three Rings_. If emails are appearing to come from a different volunteer to the one who actually sent them, it's usually because an email client is trying to be clever![/alert\_box]
+To make emails come from a volunteer's address (if they have one listed on their directory page), click the checkbox next to the line that starts with `Send email` from their own name and email address until a check mark appears in the box. To disable this, untick the box. To make emails appear to come from a branch address, click the checkbox next to the line that starts with Send email from the following name and email address: until a check mark appears in the box. To disable this, untick the box.
+
+[alert\_box type="info"]Sometimes, where _Three Rings_ is configured to send email from individual volunteers' email addresses, email clients will remember the name of a past sender, regardless of who actually sent the most recent email - this depends on how their email clients operate, which don't always respect the settings in _Three Rings_. If emails are appearing to come from a different volunteer to the one who actually sent them, it's usually because an email client is trying to be clever![/alert\_box]
 
 #### Send to
 
 You can define a default for the **To:** field on the Comms page. This default will be displayed for all volunteers (so be careful!).
 
-Choose either the radio button labelled `Friendly Name` or the one labelled `Full name` as appropriate. [alert\_box type="info" class="corners"] Choosing `full name` can help if your emails often get caught in spam filters, because emails with real names are less likely to be treated as spam. [/alert\_box]
+Choose either the radio button labelled `Friendly Name` or the one labelled `Full name` as appropriate.
+
+[alert\_box type="info" class="corners"] Choosing `full name` can help if your emails often get caught in spam filters, because emails with real names are less likely to be treated as spam. [/alert\_box]
 
 #### Copy to
 
@@ -35,4 +41,6 @@ This includes a footer of a volunteer's upcoming shifts in emails to them. To en
 
 It's likely only a few of your volunteers will need to be able to email large numbers of recipients. These people can be given bulk email privilege via a their Role. The value entered here sets the limit for the number of recipients other volunteers are able to select in a single email. To do this, locate the section that starts with `Bulk email limit`. In the edit box, type in the minimum number of recipients for the message to count as a bulk email and then click the `Save Changes` button.
 
-[docs\_box\_row] [docs\_box url="help/admin" text="Back to **Admin Help**" /] [docs\_box url="/help/admin/about-your-organisation" text="Previous: **Your Organisation**" /] [docs\_box url="/help/admin/attachments" text="Next: **Attachments**" /] [/docs\_box\_row]
+- [Back to **Admin Help**](../../admin/)
+- [Previous: **Your Organisation**](../../admin/about-your-organisation/)
+- [Next: **Attachments**](../../admin/attachments/)

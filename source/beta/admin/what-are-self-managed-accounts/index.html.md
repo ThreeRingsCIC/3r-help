@@ -3,7 +3,7 @@ name: what-are-self-managed-accounts
 title: What Are Self-Managed Accounts?
 ---
 
-[docs\_box\_row] [docs\_box url="/help/admin" text=" **Back to Admin Help**" /] [/docs\_box\_row]
+- [**Back to Admin Help**](../../admin/)
 
 By default, _Three Rings_ accounts are managed by the organisation they are created by. However, users may find it beneficial to elect to manage their own accounts, especially if they volunteer with more than one organisation that uses _Three Rings_.
 
@@ -24,4 +24,4 @@ By default, _Three Rings_ accounts are managed by the organisation they are crea
 - Continue to log into your organisation's _Three Rings_ account if you Lock or Sleep their account
 - Log back into their account immediately after resetting their password (unless you change this in [Admin\>Security](/help/admin/security/) settings, they'll still need to have their access re-approved, as they would with an organisation-managed password reset)
 
-[docs\_box\_row] [docs\_box url="/help/admin" text=" **Back to Admin Help**" /] [/docs\_box\_row]
+- [**Back to Admin Help**](../../admin/)

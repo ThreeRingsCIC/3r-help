@@ -3,7 +3,8 @@ name: privacy
 title: Privacy
 ---
 
-[docs\_box\_row] [docs\_box url="help/admin" text="Back to **Admin Help**" /] [docs\_box url="/help/admin/security" text="Previous: **Security**" /] [/docs\_box\_row]
+- [Back to **Admin Help**](../../admin/)
+- [Previous: **Security**](../../admin/security/)
 
 [alert\_box type="danger" class="corners"]_Three Rings_ is not a source of legal advice. _Three Rings_ itself, and the Privacy tools and information on this page in particular, are designed to help you meet your legal obligations. However, this doesn't change the need for you to have robust data protection policies and procedures.[/alert\_box]
 
@@ -37,4 +38,5 @@ This section covers how long you store and retain data for, in particular after 
 
 This is where you should enter the details of the person or people that Three Rings CIC and/or your volunteers (past, present, or future) should contact with any privacy or data protection related questions, queries, or requests. This will normally be your Data Protection Officer (DPO) if you have one.
 
-[docs\_box\_row] [docs\_box url="help/admin" text="Back to **Admin Help**" /] [docs\_box url="/help/admin/security" text="Previous: **Security**" /] [/docs\_box\_row]
+- [Back to **Admin Help**](../../admin/)
+- [Previous: **Security**](../../admin/security/)

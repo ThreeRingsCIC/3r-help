@@ -3,7 +3,9 @@ name: security
 title: Security
 ---
 
-[docs\_box\_row] [docs\_box url="help/admin" text="Back to **Admin Help**" /] [docs\_box url="/help/admin/templates" text="Previous: **Email Templates**" /] [docs\_box url="/help/admin/privacy" text="Next: **Privacy**" /] [/docs\_box\_row]
+- [Back to **Admin Help**](../../admin/)
+- [Previous: **Email Templates**](../../admin/templates/)
+- [Next: **Privacy**](../../admin/privacy/)
 
 The Security page allows you to adjust certain _Three Rings_ security settings to adjust the balance between security and convenience.
 
@@ -35,4 +37,6 @@ You can configure the behaviour of Email Attachments sent via the Comms tab to d
 
 The system contains a virus scanner that scans files in the Filestore and Attachments to flag any that contain viruses. You may, if you wish, allow unscanned files to be downloaded, but it is more secure to keep this option unticked.
 
-[docs\_box\_row] [docs\_box url="help/admin" text="Back to **Admin Help**" /] [docs\_box url="/help/admin/templates" text="Previous: **Email Templates**" /] [docs\_box url="/help/admin/privacy" text="Next: **Privacy**" /] [/docs\_box\_row]
+- [Back to **Admin Help**](../../admin/)
+- [Previous: **Email Templates**](../../admin/templates/)
+- [Next: **Privacy**](../../admin/privacy/)

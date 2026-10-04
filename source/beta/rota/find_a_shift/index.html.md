@@ -9,4 +9,4 @@ First, you will see a list of understaffed shifts - these are shifts that need o
 
 To sign up for one or more shifts, tick the checkbox(es) next to the shift(s) you want to sign up for, then click Sign Up.
 
-[docs\_box url="/help/overview" text="Back to **Overview**  **Help**" /]
+- [Back to **Overview**  **Help**](../../overview/)

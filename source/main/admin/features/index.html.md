@@ -3,7 +3,8 @@ name: features
 title: Features
 ---
 
-[docs\_box\_row] [docs\_box url="help/admin" text="Back to **Admin Help**" /] [docs\_box url="/help/admin/log" text="Next: **Logs**" /] [/docs\_box\_row]
+- [Back to **Admin Help**](../../admin/)
+- [Next: **Logs**](../../admin/log/)
 
 This page allows you to disable and enable a wide variety of features in _Three Rings_. To enable a feature, tick the checkbox next to the it and then click `Save Changes`. To disable a feature, untick the box and `Save Changes` again.
 
@@ -59,6 +60,7 @@ In this section you can choose to show or hide certain types of information in t
 
 [alert\_box type="info" class="corners"]Disabling these doesn't stop the information from being logged, it just means it isn't displayed.[/alert\_box]
 
-[docs\_box\_row] [docs\_box url="help/admin" text="Back to **Admin Help**" /] [docs\_box url="/help/admin/log" text="Next: **Logs**" /] [/docs\_box\_row]
+- [Back to **Admin Help**](../../admin/)
+- [Next: **Logs**](../../admin/log/)
 
 ####

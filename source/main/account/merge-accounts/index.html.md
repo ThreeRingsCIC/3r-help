@@ -3,7 +3,9 @@ name: merge-accounts
 title: Merging Accounts
 ---
 
-Merging two or more accounts lets you volunteer for multiple organisations using a single username and password. [alert\_box type="warning" class="corners"]To merge two accounts, they must both be self-managed accounts and have the same account email address.
+Merging two or more accounts lets you volunteer for multiple organisations using a single username and password.
+
+[alert\_box type="warning" class="corners"]To merge two accounts, they must both be self-managed accounts and have the same account email address.
 
 [Convert your account to be self-managed](/help/account/converting-to-a-self-managed-account) | [Edit your account email address](/help/account/additional-options/)[/alert\_box]
 
@@ -27,4 +29,4 @@ You can change which volunteer profile / which organisation you're logged into a
 
 You can also select a primary login, which is the organisation you will be logged into automatically each time you log in to _Three Rings_. On the right hand side of the `My Account` page you can see your primary login. To change this, click `Change` then select the account you want to be your primary login from the drop-down menu. If your primary account is set to "None", then when you log in to _Three Rings_ you'll see the `My Account` page instead of being logged in to one of your volunteer profiles.
 
-[docs\_box url="help/me/" text="Back to **Account**"]
+- [Back to **Account**](../../me/)

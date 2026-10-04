@@ -5,7 +5,7 @@ title: Editing Other Volunteers' Directory Pages
 
 Individual Directory pages are normally accessed through the Directory. When you select a volunteer in [Directory view](/help/directory/viewing-the-directory/), you will be taken to their directory page. The information available on the Directory page and who can edit it is highly customisable. You may not be able to see all of the fields mentioned below or you may see additional fields but the principles should be similar.
 
-[![Screenshot of a Directory page being edited](https://www.threerings.org.uk/wp-content/uploads/2016/04/Directory-Edit-1024x438.png)](https://www.threerings.org.uk/wp-content/uploads/2016/04/Directory-Edit.png)
+[![Screenshot of a Directory page being edited](../../../images/Directory-Edit-1024x438.png)](../../../images/Directory-Edit.png)
 
 ### Viewing basic information about a volunteer
 
@@ -21,7 +21,9 @@ Navigate to the user's Directory page through directory view. Many details can b
 
 #### Changing a volunteer's photo
 
-[alert\_box type="info" class="corners"] Uploading a new photo will automatically replace the old one, there is no need to delete the old photo first. [/alert\_box] Navigate to the volunteer's Directory page and click the link labelled `Upload a new photo`. Click the `Choose File, `select the new photo to upload from your PC, and click `upload`. You will be invited to "crop" the photo to decide which portion of it should be displayed in the Directory when using Button view - move the window so that it shows the appropriate part of the photo (usually their face!).
+[alert\_box type="info" class="corners"] Uploading a new photo will automatically replace the old one, there is no need to delete the old photo first. [/alert\_box]
+
+Navigate to the volunteer's Directory page and click the link labelled `Upload a new photo`. Click the `Choose File, `select the new photo to upload from your PC, and click `upload`. You will be invited to "crop" the photo to decide which portion of it should be displayed in the Directory when using Button view - move the window so that it shows the appropriate part of the photo (usually their face!).
 
 #### Deleting a user's current photo
 
@@ -33,7 +35,11 @@ Sometimes, you may need to switch a user to the Simple or Accessible version of 
 
 #### Changing a user's username
 
-Navigate to the user's directory page through directory view. Click E`dit` at the top of the page. Locate the section entitled 'Change Username'. Enter the new username into the `Username` field. The system will check whether that username is already in use and display a tick or cross as is appropriate (usernames must be unique across all organisations using _Three Rings_, not just those in your organisation). Finally, click the `Change Username` button to finalise the change. [alert\_box type="info" class="corners"] If you are changing someone else's username, you will need to inform them, as they will be unable to login until you tell them their new username. You can't change someone's username if they're using an individually managed account.[/alert\_box] If you just deleted an account with the same username, it can take up to 24 hours to be available again.
+Navigate to the user's directory page through directory view. Click E`dit` at the top of the page. Locate the section entitled 'Change Username'. Enter the new username into the `Username` field. The system will check whether that username is already in use and display a tick or cross as is appropriate (usernames must be unique across all organisations using _Three Rings_, not just those in your organisation). Finally, click the `Change Username` button to finalise the change.
+
+[alert\_box type="info" class="corners"] If you are changing someone else's username, you will need to inform them, as they will be unable to login until you tell them their new username. You can't change someone's username if they're using an individually managed account.[/alert\_box]
+
+If you just deleted an account with the same username, it can take up to 24 hours to be available again.
 
 #### Viewing a user's upcoming shifts
 
@@ -43,4 +49,4 @@ Providing that you have Stats permissions, you can now access a list of another 
 
 For changing Availability, Relationships, and Roles, see [the Admin help pages](/help/admin/).
 
-[docs\_box url="/help/directory" text="Back to **Directory Help**"]
+- [Back to **Directory Help**](../../directory/)

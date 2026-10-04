@@ -3,7 +3,9 @@ name: support-people
 title: Support People
 ---
 
-[docs\_box\_row] [docs\_box url="help/admin" text="Back to **Admin Help**" /] [docs\_box url="help/admin/text-messages" text="Previous: **Text Messages**" /] [docs\_box url="/help/admin/templates" text="Next: **Email Templates**" /] [/docs\_box\_row]
+- [Back to **Admin Help**](../../admin/)
+- [Previous: **Text Messages**](../../admin/text-messages/)
+- [Next: **Email Templates**](../../admin/templates/)
 
 This page shows you who the current Support People at your organisation are and explains what the role involves. It also allows you to give this role to anyone else who is eligible. In order to eligible, the user has to have Directory and Manage permissions. You can have more than one Support Person.
 
@@ -26,4 +28,6 @@ As well as Support People, you can also nominate other organisational contacts. 
 - Roles with decision-making authority would be contacted about things like updates to our Terms and Conditions, or to make you aware of a data protection issue.
 - Roles with technical authority would be contacted about things like configuration issues with _Three Rings_ or system updates that might affect you.
 
-[docs\_box\_row] [docs\_box url="help/admin" text="Back to **Admin Help**" /] [docs\_box url="help/admin/text-messages" text="Previous: **Text Messages**" /] [docs\_box url="/help/admin/templates" text="Next: **Email Templates**" /] [/docs\_box\_row]
+- [Back to **Admin Help**](../../admin/)
+- [Previous: **Text Messages**](../../admin/text-messages/)
+- [Next: **Email Templates**](../../admin/templates/)

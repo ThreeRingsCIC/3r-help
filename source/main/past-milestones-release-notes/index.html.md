@@ -3,7 +3,9 @@ name: past-milestones-release-notes
 title: 'Past Milestones: Release Notes'
 ---
 
-This page provides a full list of every past _Three Rings_ Milestone since 2008, together with the official Release Notes. [alert\_box type="warning" class="corners"]This is a **very** long page! It's here mostly for historical interest, so you can see how _Three Rings_ has evolved over time. For up-to-date Help, you're better off [going back to the Root Help page](https://www.threerings.org.uk/help/help/).[/alert\_box]
+This page provides a full list of every past _Three Rings_ Milestone since 2008, together with the official Release Notes.
+
+[alert\_box type="warning" class="corners"]This is a **very** long page! It's here mostly for historical interest, so you can see how _Three Rings_ has evolved over time. For up-to-date Help, you're better off [going back to the Root Help page](https://www.threerings.org.uk/help/help/).[/alert\_box]
 
 ## Milestone: Yttrium - November 2016
 

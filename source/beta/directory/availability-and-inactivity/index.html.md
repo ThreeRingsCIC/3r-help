@@ -15,6 +15,10 @@ Go to your Directory page and scroll down to the section marked `Availability`. 
 
 #### Adding, Editing and Deleting Periods of Inactivity
 
-Go to your Directory page and scroll down to the section marked `Account Status`. Click the `Manage Inactivity` button and then the `Add Inactivity Period` button. Click on the the edit boxes and use the calendars to state when your inactivity period will start and end. [alert\_box type="info" class="corners"] If you don't know when your inactivity period will end, it may be best to check the box marked `until further notice`.[/alert\_box] Click the `Add` button. To edit this period, repeat the above steps to get back to the `Manage Inactivity` page, click on the inactivity period and then use the calendars to edit this period. Click the `Update` button. If you want to delete it instead, click the `Delete` button.
+Go to your Directory page and scroll down to the section marked `Account Status`. Click the `Manage Inactivity` button and then the `Add Inactivity Period` button. Click on the the edit boxes and use the calendars to state when your inactivity period will start and end.
 
-[docs\_box url="/help/directory" text="Back to **Directory Help**"]
+[alert\_box type="info" class="corners"] If you don't know when your inactivity period will end, it may be best to check the box marked `until further notice`.[/alert\_box]
+
+Click the `Add` button. To edit this period, repeat the above steps to get back to the `Manage Inactivity` page, click on the inactivity period and then use the calendars to edit this period. Click the `Update` button. If you want to delete it instead, click the `Delete` button.
+
+- [Back to **Directory Help**](../../directory/)

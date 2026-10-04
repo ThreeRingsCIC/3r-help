@@ -3,7 +3,9 @@ name: log
 title: Logs
 ---
 
-[docs\_box\_row] [docs\_box url="help/admin" text="Back to **Admin Help**" /] [docs\_box url="/help/admin/features" text="Previous: **Features**" /] [docs\_box url="/help/admin/secrets" text="Next: **Secrets**" /] [/docs\_box\_row]
+- [Back to **Admin Help**](../../admin/)
+- [Previous: **Features**](../../admin/features/)
+- [Next: **Secrets**](../../admin/secrets/)
 
 ## Logs
 
@@ -15,4 +17,6 @@ If you select `csv` for the `Output` field, the filter results will automaticall
 
 Min. severity refers to the type of log. There are three categories - information, warning and alert. Information refers to general activities like logging in and viewing the rota. Warning generally refers to when something was attempted, but not done correctly - for example, someone tried to send a message via Comms but forgot to add in recipients. Alerts are for activities whereby a user tried to do something they aren't allowed to, such as access the Admin page when they've not got Admin privileges (_Three Rings_ will automatically block these attempts).
 
-[docs\_box\_row] [docs\_box url="help/admin" text="Back to **Admin Help**" /] [docs\_box url="/help/admin/features" text="Previous: **Features**" /] [docs\_box url="/help/admin/secrets" text="Next: **Secrets**" /] [/docs\_box\_row]
+- [Back to **Admin Help**](../../admin/)
+- [Previous: **Features**](../../admin/features/)
+- [Next: **Secrets**](../../admin/secrets/)

@@ -19,4 +19,4 @@ Volunteers with a role that includes Filestore Manage permission will always be 
 
 [alert\_box type="warning" class="corners"]If a Role has no rights for a folder, they won't be able to see any subfolders within it, even if they have Read or Read & Write permissions on those subfolders.[/alert\_box]
 
-[docs\_box url="/docs/filestore" text="Back to **Filestore Help**"]
+- [Back to **Filestore Help**](../../filestore/)

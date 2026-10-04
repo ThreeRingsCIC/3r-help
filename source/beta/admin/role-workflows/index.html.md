@@ -3,7 +3,9 @@ name: role-workflows
 title: Role Workflows
 ---
 
-[docs\_box\_row] [docs\_box url="help/admin" text="Back to **Admin Help**" /] [docs\_box url="help/admin/roles" text="Previous: **Roles**" /] [docs\_box url="/help/directory/new" text="Next: **New Volunteer**" /] [/docs\_box\_row]
+- [Back to **Admin Help**](../../admin/)
+- [Previous: **Roles**](../../admin/roles/)
+- [Next: **New Volunteer**](../../directory/new/)
 
 Role workflows allow you to set up conditions under which volunteers _without_ access to the Admin tab can assign or revoke selected roles - for example, to allow Trainers to add new roles to volunteers, or Managers to change Probationers to Full Volunteers.
 
@@ -27,4 +29,6 @@ To set up a new role workflow, click the Define new Role Workflow button.
 
 [alert\_box type="info" class="corners"] A workflow can be used to add roles, revoke roles, or do both at the same time. However, a single workflow cannot be used to add and revoke a role. You need one workflow to add it and one to revoke it.[/alert\_box]
 
-[docs\_box\_row] [docs\_box url="help/admin" text="Back to **Admin Help**" /] [docs\_box url="help/admin/roles" text="Previous: **Roles**" /] [docs\_box url="/help/directory/new" text="Next: **New Volunteer**" /] [/docs\_box\_row]
+- [Back to **Admin Help**](../../admin/)
+- [Previous: **Roles**](../../admin/roles/)
+- [Next: **New Volunteer**](../../directory/new/)

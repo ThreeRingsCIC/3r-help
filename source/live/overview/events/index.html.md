@@ -3,11 +3,15 @@ name: events
 title: Events
 ---
 
-The Events list is tailored to each individual volunteer, and shows the upcoming events at your organisation most relevant to you. It includes your upcoming shifts, events arranged by event administrators, and may also show which volunteers have birthdays in the near future (if this feature has been enabled by an Admin). [![Events](https://www.threerings.org.uk/wp-content/uploads/2016/04/Events-300x145.png)](https://www.threerings.org.uk/wp-content/uploads/2016/04/Events.png)
+The Events list is tailored to each individual volunteer, and shows the upcoming events at your organisation most relevant to you. It includes your upcoming shifts, events arranged by event administrators, and may also show which volunteers have birthdays in the near future (if this feature has been enabled by an Admin). [![Events](../../../images/Events-300x145.png)](../../../images/Events.png)
 
 ## Adding Events
 
-You can add an Event (as long as you have the right permissions) by clicking on the `Add an Event +` link at the top of the Events listing. [alert\_box type="info"]You can also add Events from the Rota: click the `+` icon at the top of each day, and select the `Add an event` link in the popup which appears[/alert\_box]. You can set the Event Title, and give it a Description from the Add Event page. Events can have several different Types, and the Type affects the icon used to display the Event on the Rota. This makes it easier for other volunteers to tell at a glance what the event is likely to be. Possible options include:
+You can add an Event (as long as you have the right permissions) by clicking on the `Add an Event +` link at the top of the Events listing.
+
+[alert\_box type="info"]You can also add Events from the Rota: click the `+` icon at the top of each day, and select the `Add an event` link in the popup which appears[/alert\_box]
+
+. You can set the Event Title, and give it a Description from the Add Event page. Events can have several different Types, and the Type affects the icon used to display the Event on the Rota. This makes it easier for other volunteers to tell at a glance what the event is likely to be. Possible options include:
 
 - Birthday
 - Emergency
@@ -34,4 +38,4 @@ It's possible to create an Event that volunteers can sign up to. To do this, che
 
 You can Edit existing events by clicking on them either in the Upcoming Events listing on the Overview, or on the Rota, and clicking the `Edit` button. After making your adjustments, click the `Update Event` button to save your changes. To Delete an Event, click on it either in the Upcoming Events listing or on the Rota, and click the `Delete` button. You will need to confirm you wish to Delete the event in the popup. The Event will then be deleted.
 
-[docs\_box url="/help/overview" text="Back to **Overview Help**" /]
+- [Back to **Overview Help**](../../overview/)

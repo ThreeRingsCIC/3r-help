@@ -3,7 +3,7 @@ name: viewing-the-rota
 title: Viewing the Rota
 ---
 
-#### [![Rota](https://www.threerings.org.uk/wp-content/uploads/2016/04/Rota-300x149.png)](https://www.threerings.org.uk/wp-content/uploads/2016/04/Rota.png)
+#### [![Rota](../../../images/Rota-300x149.png)](../../../images/Rota.png)
 
 #### 
 
@@ -13,7 +13,9 @@ Click on the rota tab on the top navigation bar. This will take you to the rota 
 
 #### Shift Colour Coding
 
-Rotas and shifts can be colour coded in order to make things clearer. The **Showing** section in the top-left corner shows the colour that each rota is displayed in, by highlighting the name of each rota in the appropriate colour. **Shifts:** is just underneath this at the top-left of the rota page. This shows how your shifts, and understaffed shifts, will be highlighted on the rota. [alert\_box type="info" class="corners"] Admins can specify which colours each Rota uses in Admin \> Rotas[/alert\_box]
+Rotas and shifts can be colour coded in order to make things clearer. The **Showing** section in the top-left corner shows the colour that each rota is displayed in, by highlighting the name of each rota in the appropriate colour. **Shifts:** is just underneath this at the top-left of the rota page. This shows how your shifts, and understaffed shifts, will be highlighted on the rota.
+
+[alert\_box type="info" class="corners"] Admins can specify which colours each Rota uses in Admin \> Rotas[/alert\_box]
 
 #### Choosing which Rotas to View
 
@@ -27,28 +29,30 @@ You may find Day View most useful on a small, portrait orientation screen (like 
 
 #### Viewing Public Holidays on the Rota
 
-If Third Party calendars (for example, those showing public holidays) are enabled, they will be automatically displayed at the top of each day on the Rota. [alert\_box type="info" class="corners"]Admins can change which calendars are displayed in Admin \> Localisation.[/alert\_box]
+If Third Party calendars (for example, those showing public holidays) are enabled, they will be automatically displayed at the top of each day on the Rota.
+
+[alert\_box type="info" class="corners"]Admins can change which calendars are displayed in Admin \> Localisation.[/alert\_box]
 
 **Viewing or Creating Comments on a Shift**
 
-If your organisation has enabled Shift Comments ([available in Admin \> Features](https://www.threerings.org.uk/help/help/admin/features-logs-themes-maintenance-and-invoicing/)), and if your [Role permissions](https://www.threerings.org.uk/help/help/admin/roles/) permit you to View comments, then you may see Comments on some shifts. A shift with a comment is identified by a small speech bubble icon on the Rota. Clicking on either a name or a `Sign Up` link for that shift will bring up the popup for that shift, where you can view the Comment. [caption id="attachment\_3680" align="aligncenter" width="500"][![A Comment viewed in the shift popup](https://www.threerings.org.uk/wp-content/uploads/2017/03/Commments-View.png)](https://www.threerings.org.uk/wp-content/uploads/2017/03/Commments-View.png)
+If your organisation has enabled Shift Comments ([available in Admin \> Features](https://www.threerings.org.uk/help/help/admin/features-logs-themes-maintenance-and-invoicing/)), and if your [Role permissions](https://www.threerings.org.uk/help/help/admin/roles/) permit you to View comments, then you may see Comments on some shifts. A shift with a comment is identified by a small speech bubble icon on the Rota. Clicking on either a name or a `Sign Up` link for that shift will bring up the popup for that shift, where you can view the Comment.
 
-A Comment has been added to this shift[/caption]
+[![A Comment viewed in the shift popup](../../../images/Commments-View.png)](../../../images/Commments-View.png)
 
-If you have 'Comment' permissions or higher, you will be able to create a new Comment from the Comment tab in the shift actions box, and if you have Comment 'Manage' permissions, you will be able to delete a comment as well as creating a new Comment if you wish. [caption id="attachment\_3679" align="aligncenter" width="501"] ![A Comment box seen by a Comment Manager](https://www.threerings.org.uk/wp-content/uploads/2017/03/Comments-Can-Delete.png)
+If you have 'Comment' permissions or higher, you will be able to create a new Comment from the Comment tab in the shift actions box, and if you have Comment 'Manage' permissions, you will be able to delete a comment as well as creating a new Comment if you wish.
 
-A user with Comment: Manage permissions can create or delete comments as well as viewing them[/caption]
+![A Comment box seen by a Comment Manager](../../../images/Comments-Can-Delete.png)
 
 **Sending email to everyone on a shift**
 
 If you have a Role which gives you Comms permissions, you can email everyone signed up to a particular shift. Click on any of the links in that shift (for example, the `Sign Up` link, or the name of another volunteer), and you'll see a '`Send Email`' button in the pop-up box.
 
-[caption id="attachment\_2961" align="aligncenter" width="501"] ![](https://www.3r.org.uk/inline_images/4aae6224-f779-4ba2-b031-461982e30f73)
+![](../../../images/4aae6224-f779-4ba2-b031-461982e30f73.png)
 
-Send Email and Display buttons [/caption]
+Click on that button to be taken to the Comms page, [where you'll be able to compose a message as normal](https://www.threerings.org.uk/help/help/comms/writing-a-message-in-comms/).
 
-Click on that button to be taken to the Comms page, [where you'll be able to compose a message as normal](https://www.threerings.org.uk/help/help/comms/writing-a-message-in-comms/).[alert\_box type="warning" class="corners"]If your Role doesn't grant you Bulk Email permissions, and the number of people signed up to the shift exceeds the maximum number of volunteers your Organisation allows you to email without Bulk Email permissions, you won't be able to send the email.[/alert\_box]
+[alert\_box type="warning" class="corners"]If your Role doesn't grant you Bulk Email permissions, and the number of people signed up to the shift exceeds the maximum number of volunteers your Organisation allows you to email without Bulk Email permissions, you won't be able to send the email.[/alert\_box]
 
 The Display button will take you to the Directory with signed-up volunteers displayed.
 
-[docs\_box url="help/rota" text="Back to **Rota Help**" /]
+- [Back to **Rota Help**](../../rota/)
